@@ -1,6 +1,6 @@
 Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Han_Xiaozeng Code
+Free for personal and commercial use under the CCA 3.0 license
 
 
 Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
